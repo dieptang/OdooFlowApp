@@ -9,6 +9,10 @@
 
 Explore the best of Odoo, now fully optimized for mobile devices.
 
+**Video Youtube**
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/wRo3cp3EGz8/0.jpg)](https://www.youtube.com/watch?v=wRo3cp3EGz8 "Master Odoo Sales Orders on Mobile")
+
 **Coming Soon** – Stay tuned for updates and a first look!
 
 #Main Order Sales Screen
